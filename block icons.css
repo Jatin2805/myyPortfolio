@@ -1,0 +1,18 @@
+/* #div1{
+    width: 33.33%;
+  float: right;
+  margin-bottom: 40%;
+} */
+#div2{
+    width: 33.33%;
+    
+}
+.changes{
+  padding-bottom: 10%;
+}
+
+.types ul {
+  padding-bottom: 10%;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 40px;
+}
